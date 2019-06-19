@@ -1,0 +1,51 @@
+메인텍스트
+ABOUT THE WALT DISNEY COMPANY
+The mission of The Walt Disney Company is to entertain, inform and inspire people around the globe through the power of unparalleled storytelling, reflecting the iconic brands, creative minds and innovative technologies that make ours the world’s premier entertainment company.
+
+메인컬러 #1919fb
+
+서브메뉴
+ABOUT
+INVESTOR RELATIONS
+CAREERS
+ENVIRONMENT
+PHILANTHROPY
+NEWS
+
+서브텍스트
+OUR MISSION
+The mission of The Walt Disney Company is to entertain, inform and inspire people around the globe through the power of unparalleled storytelling, reflecting the iconic brands, creative minds and innovative technologies that make ours the world’s premier entertainment company.
+
+
+
+서브1
+PHILANTHROPY
+Disney is committed to strengthening communities by providing hope, happiness, and comfort to kids and families who need it most.
+
+Disney is committed to providing comfort, happiness, and inspiration to kids and families around the globe.
+
+서브2
+Join Mickey & Minnie’s Surprise Celebration at Magic Kingdom Park!
+Dance along with Mickey, Minnie and pals in this all-new, high-energy celebration.
+
+
+footer
+Terms of Use
+Privacy Policy
+Your California Privacy Rights
+Children’s Online Privacy Policy
+Disney.com Guest Services
+Advertise With Us
+Contact Us
+
+ⓒDisney 2019 All Rights Reserved.
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Varela+Round&display=swap');
+font-family: 'Varela Round', sans-serif;
+
+@import url('https://fonts.googleapis.com/css?family=Hind&display=swap');
+font-family: 'Hind', sans-serif;
